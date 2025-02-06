@@ -6,7 +6,7 @@
 
 - Hi, I'm in [수파자](https://www.supaja.com/) and [광야의 소리](https://ai.supaja.com/)
 
-- 👨‍💻 All of my projects are available at [고영민의 Notion 포트폴리오](https://yeongmin-portfolio.notion.site/flutter-main)
+- 👨‍💻 All of my projects are available at [고영민의 Notion 포트폴리오](https://ymkoh-portfolio.notion.site/flutter-main?pvs=4)
 
 ### Framework
 
@@ -28,7 +28,7 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0minkoh&show_icons=true&locale=en&layout=compact" alt="0minkoh" /></p> -->
 
 <!-- Github Scroe -->
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0minkoh&count_private=true&show_icons=true&locale=en" alt="0minkoh" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0minkoh&count_private=true&show_icons=true&locale=en" alt="0minkoh" /></p>
 
 <!-- Github Dashboard (Streak) -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0minkoh&" alt="0minkoh" /></p>

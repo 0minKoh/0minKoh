@@ -2,11 +2,6 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0minkoh" alt="0minkoh" /></a> </p> -->
 
 <h1 align="left">고영민 | 비즈니스 가치를 만드는 개발자</h1>
-<h3 align="left">3년차 크로스플랫폼(ios, android) 앱 개발자</h3>
-
-- Hi, I'm in [수파자](https://www.supaja.com/) and [광야의 소리](https://ai.supaja.com/)
-
-- 👨‍💻 All of my projects are available at [고영민의 Notion 포트폴리오](https://ymkoh-portfolio.notion.site/flutter-main)
 
 ### Framework
 
